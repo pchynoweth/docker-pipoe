@@ -4,5 +4,5 @@ Docker image for running pipoe
 ## Usage
 
 ```bash
-podman run --rm -v $PWD:/work pipoe:latest pipoe -p glob2
+podman run --rm -it -v $PWD:/work pipoe:latest pipoe --python python3 -p glob2
 ```
