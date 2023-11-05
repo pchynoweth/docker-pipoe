@@ -1,5 +1,5 @@
 # docker-pipoe
-Docker image for running pipoe
+Docker image for running [pipoe](https://pypi.org/project/pipoe/)
 
 ## Usage
 
